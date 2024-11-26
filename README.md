@@ -13,4 +13,6 @@ This is the second project of the Software Engineering program at TripleTen. It 
 
 ## Plan on improving the project
 
-Add your ideas here :)
+allowing us to make the gradient backround for the footer would be an interesting exercise.
+
+divvying out the project tasks more evenly would help with planning from a time management standpoint.
